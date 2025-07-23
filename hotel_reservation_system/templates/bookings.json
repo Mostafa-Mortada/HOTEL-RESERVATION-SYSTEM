@@ -1,0 +1,14 @@
+{
+    "3": {
+        "period": {
+            "from": 31,
+            "to": 33
+        },
+        "room_id": 3,
+        "status": {
+            "active": false,
+            "cancel_at": "2024-04-03 11:36"
+        },
+        "user_id": 1
+    }
+}

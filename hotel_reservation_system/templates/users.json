@@ -1,0 +1,29 @@
+{
+  "1": {
+    "age": 25,
+    "email": "admin@gmail.com",
+    "name": "admin",
+    "password": "123456",
+    "phone": "201100884896",
+    "user_type": 0,
+    "username": "admin"
+  },
+  "2": {
+    "age": 21,
+    "email": "mostafa@gmail.com",
+    "name": "Moustafa Mortada",
+    "password": "12345678",
+    "phone": "20111021904952",
+    "user_type": 1,
+    "username": "Moustafa25"
+  },
+  "3": {
+    "age": 20,
+    "email": "omar@gmail.com",
+    "name": "Omar Yacop",
+    "password": "123456",
+    "phone": "201100884896",
+    "user_type": 0,
+    "username": "omar"
+  }
+}

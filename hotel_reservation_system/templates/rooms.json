@@ -1,0 +1,247 @@
+{
+    "24912": {
+        "info": {
+            "Description": "",
+            "floor": 12,
+            "price": 414,
+            "roomNumber": 10,
+            "roomType": 4
+        },
+        "status": {
+            "availability": [
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "available": true
+        }
+    },
+    "3": {
+        "info": {
+            "Description": "Room 3 Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah ",
+            "floor": 5,
+            "price": 30,
+            "roomNumber": 106,
+            "roomType": 5
+        },
+        "status": {
+            "availability": [
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    false,
+                    false,
+                    false
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "available": true
+        }
+    },
+    "4": {
+        "info": {
+            "Description": "Room 2 Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah \r\ndsa\r\nd\r\nassd as das das d\r\ndsa dsa d3as1d2sa",
+            "floor": 100,
+            "price": 5451,
+            "roomNumber": 12,
+            "roomType": 8
+        },
+        "status": {
+            "availability": [
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "available": true
+        }
+    },
+    "5": {
+        "info": {
+            "Description": "Room 2 Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah \r\ndsa\r\nd\r\nassd as das das d\r\ndsa dsa d3as1d2sa",
+            "floor": 100,
+            "price": 5451,
+            "roomNumber": 12,
+            "roomType": 8
+        },
+        "status": {
+            "availability": [
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "available": true
+        }
+    },
+    "77603": {
+        "info": {
+            "Description": "gdjkhkjhj akjkjdhjasdkjsahd sdbaj",
+            "floor": 21,
+            "price": 651,
+            "roomNumber": 215,
+            "roomType": 1
+        },
+        "status": {
+            "availability": [
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ],
+                [
+                    true,
+                    true,
+                    true
+                ]
+            ],
+            "available": true
+        }
+    }
+}
