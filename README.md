@@ -41,7 +41,7 @@ Watch a demo of the system in action:
 
 ## 👥 Team Members
 
-- **Moustafa Mortada** _(Developer & Video Editor)_
+- **Moustafa Mortada**
 - Youssef Abbas
 - Omar Karam
 - Khatab Abd Elmonaem
