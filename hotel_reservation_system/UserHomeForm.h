@@ -888,7 +888,7 @@ namespace hotelreservationsystem {
 		{
 			this->profileEmail->Text = gcnew String(active_user.email.c_str());
 			this->profilePhone->Text = gcnew String(active_user.phone.c_str());
-			this->profileName->Text = gcnew String(active_user.name.c_str());
+			 this->profileName->Text = gcnew String(active_user.name.c_str());
 			this->profileUsername->Text = gcnew String(active_user.username.c_str());
 			this->profileAge->Text = gcnew String(to_string(active_user.age).c_str());
 		}
