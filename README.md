@@ -26,6 +26,19 @@ Watch a demo of the system in action:
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Registration Screen
+![Registration Screen](screenshots/registration.png)
+
+### 🔍 Searching Rooms
+![Search Screen](screenshots/booking_search.png)
+
+### 🏠 Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+---
+
 ## 👥 Team Members
 
 - **Moustafa Mortada** _(Developer & Video Editor)_
