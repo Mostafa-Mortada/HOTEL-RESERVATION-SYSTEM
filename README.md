@@ -10,12 +10,21 @@
 This project simulates a simple hotel reservation system with a graphical user interface built using **C++** and **Windows Forms**.  
 It was our introduction to building structured applications and working with file-based data storage using **JSON**.
 
-### ✨ Features
+## ✨ User Features
 
-- Log in as admin or guest
-- Book, cancel, or view reservations
-- Check room availability
-- Store all data persistently using JSON files
+- 🔐 Secure login and registration
+- 🔍 Search for available rooms by date, time slot (morning, afternoon, evening), and type
+- 📅 Book, view, modify, and cancel reservations
+
+## 🛠️ Admin Features
+
+- ➕ Add and manage rooms (type, price, availability)
+- ✏️ Edit or delete room details
+- 👀 View all bookings for a specific room
+
+### 🗓️ Time-Based System
+
+The system simulates a full 7-day week with **three time slots per day**, creating a realistic booking experience.
 
 ---
 
